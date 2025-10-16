@@ -1,0 +1,3 @@
+client id: 487488098943-gdq2i96vk8q4m4t34ff1f696n51jb20i.apps.googleusercontent.com
+client secret: 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
+refresh token: 1//0cPTVMwYCmlnZCgYIARAAGAwSNwF-L9Iril9F3JauJnTsBwrLEW__vO9wZZ_8UUQSZlUSjFxGy19J7a8T9nIX6pUXeNLo-0Ow8rk
